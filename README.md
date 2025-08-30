@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.imgur.com/IMAGEM_DO_SEU_BANNER.png" width="100%"/>
 
-<h1 align="center">PedroHenriqueCJ aqui 🔥!</h1>
+<h1 align="center">PedroHenriqueCJ 🔥!</h1>
 <h3 align="center">Namastê 🙏 Eu sou Pedro Henrique Cerqueira de Jesus</h3>
 
 ---
@@ -22,14 +22,14 @@
 
 ---
 
-## 💻 Languages & Tools I Have Hands-On
+## 📑 Languages & Tools I Have Hands-On
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,canva" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ⚡ 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="150"/>
@@ -40,7 +40,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
