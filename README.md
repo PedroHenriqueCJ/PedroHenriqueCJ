@@ -31,7 +31,16 @@
 
 ---
 
-## 🛠 Languages & Tools I Have Used
+## 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
+</p>
+
+---
+
+## 🛠 Languages & Tools
 <p align="left">
 <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
@@ -44,15 +53,6 @@
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="160px"/>
-<img src="https://nirzak-streak-stats.vercel.app/?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="160px"/>
 </p>
 
 ---
