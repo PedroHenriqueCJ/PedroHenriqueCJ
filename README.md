@@ -1,69 +1,105 @@
 <!--================= HEADER =================-->
 # 👋 Olá, Eu sou Pedro Henrique Cerqueira de Jesus
 
-**Desenvolvedor Full Stack | Designer de UI/UX | Entusiasta de Open Source**
+**Full-Stack Developer | UX/UI Designer**  
+📍 São Gonçalo dos Campos, Bahia  
+✉️ [pedrohenriquecerqueiraj@gmail.com](mailto:pedrohenriquecerqueiraj@gmail.com)  
+🌐 [LinkedIn](https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318) | [GitHub](https://github.com/PedroHenriqueCJ)
 
 ---
 
-### 📚 Sobre Mim
-Sou apaixonado por tecnologia e design, com experiência em desenvolvimento de aplicações web e móveis. Busco constantemente aprimorar minhas habilidades e contribuir para a comunidade de código aberto.
+### 🎯 Objetivo
+Atuar como desenvolvedor Full-Stack ou UX/UI Designer, aplicando conhecimentos para desenvolver soluções inovadoras e eficientes, em um ambiente dinâmico e colaborativo que favoreça o crescimento profissional e o impacto positivo nos projetos.
 
 ---
 
-<!--================= SOCIAL LINKS =================-->
+### 🎓 Formação Acadêmica
+**Ensino Médio – Colégio Estadual de Tempo Integral São Gonçalo dos Campos**  
+Conclusão prevista: Dez/2026
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+#### Linguagens & Frameworks
 <div align="center">
-  <a href="https://instagram.com/Beu266" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram" />
-  </a>
-  <a href="https://linkedin.com/in/Pedro Henrique Cerqueira de Jesus" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pedrohenriquecerqueiraj@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</div>
-
----
-
-<!--================= TECH STACK =================-->
-### 🛠️ Tech Stack
-<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="32" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="32" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="32" alt="SCSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="32" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="32" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="32" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="32" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="32" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="32" alt="Java" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" height="32" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="32" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="32" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="32" alt="Figma" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="32" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="32" alt="C#" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" alt="SQL" />
 </div>
+
+#### Desenvolvimento Front-end
+UX/UI Design, Design Responsivo, SPA (Single Page Applications), Otimização de Performance, Integração de APIs (RESTful)
+
+#### Desenvolvimento Back-end
+Desenvolvimento de APIs, Arquitetura MVC, Autenticação JWT, Operações CRUD, Integração com Banco de Dados
+
+#### Desenvolvimento Mobile
+Cross-platform Applications (React Native, Flutter – básico)
+
+#### Banco de Dados
+PostgreSQL, MySQL, Modelagem de Dados, Otimização de Consultas, Normalização de Tabelas
+
+#### Ferramentas e Plataformas
+Git, GitHub, Figma, Adobe XD, SPCK editor
 
 ---
 
-<!--================= GITHUB STATS =================-->
+### 💼 Experiência Profissional
+**Farcane – Full-Stack Developer (remoto)**  
+*Jan 2024 – Mar 2024*  
+Stack: React, TypeScript, Java (Spring Boot), PostgreSQL
+
+**Responsabilidades:**  
+- Front-end Performance: Desenvolvi interfaces responsivas com React e TypeScript, otimizando métricas de acessibilidade (Lighthouse > 90) e tempo de carregamento.  
+- Integração de APIs: Projetei e integrei 2 APIs RESTful com Spring Boot, implementando validação de dados e documentação clara via Swagger/Postman.  
+- Trabalho Ágil: Entreguei features críticas dentro de sprints (Scrum), colaborando com QA e Product Owners.  
+- Participação em code reviews, garantindo boas práticas (SOLID, Clean Code).
+
+---
+
+### ⚡ Competências-chave
+- Comunicação técnica clara, alinhando design e desenvolvimento para entregas coesas  
+- Colaboração eficaz em equipes ágeis multidisciplinares  
+- Design centrado no usuário, com foco em usabilidade, estética e identidade visual  
+- Desenvolvimento full-stack com atenção à performance e escalabilidade
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHenriqueCJ&layout=compact&langs_count=5&theme=rose_pine&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PedroHenriqueCJ&layout=compact&langs_count=8&theme=rose_pine&hide_border=true" height="150" alt="Top Languages" />
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&mode=daily&theme=rose_pine&hide_border=false&border_radius=5" height="150" alt="Streak Stats" />
-  <img src="https://github-profile-trophy.vercel.app?username=PedroHenriqueCJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PedroHenriqueCJ&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<!--================= VISITOR BADGE =================-->
+### 📬 Contato
+- [LinkedIn](https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318)  
+- [Instagram](https://instagram.com/Beu266)  
+- [E-mail](mailto:pedrohenriquecerqueiraj@gmail.com)
+
+---
+
+### 📈 Contador de Visitantes
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=PedroHenriqueCJ.PedroHenriqueCJ" alt="Visitor Count" />
 </div>
 
 ---
 
-<!--================= SNAKE ANIMATION =================-->
+### 🐍 Animação Snake
 <div align="center">
-  <img src="https://raw.githubusercontent.com/PedroHenriqueCJ/PedroHenriqueCJ/output/snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/PedroHenriqueCJ/PedroHenriqueCJ/output/snake.svg" alt="Snake Animation" width="300" />
 </div>
