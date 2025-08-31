@@ -15,14 +15,20 @@
 
 ---
 
+<div align="right">
 ## 🌐 Socials
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="150"/>
+  <a href="https://instagram.com/Beu266">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:pedrohenriquecerqueiraj@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
-</p>
+<div/>
 
 ---
 
@@ -84,10 +90,6 @@
   </a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PedroHenriqueCJ&icon=0&color=6" />
-</p>
 
 <!-- Proudly created with ❤️ by Pedro Henrique -->
