@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.imgur.com/IMAGEM_DO_SEU_BANNER.png" width="100%"/>
 
-<h1 align="center">Pedro Henrique Cerqueira de Jesus 🔥</h1>
+<h1 align="center">Pedro Henrique Cerqueira de Jesus </h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
 ---
@@ -31,15 +31,15 @@
 
 ---
 
-## ⚡ GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=tokyonight&hide_border=false" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
+⚡ 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</p>
 ---
 
 ## 🛠 Tech Stack
