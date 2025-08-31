@@ -30,7 +30,7 @@
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
+<h2 align="center">⚡ 📊 GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="150"/>
@@ -41,9 +41,8 @@
 
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+<h2 align="center">💻 Tech Stack</h2>
 
-### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
