@@ -9,7 +9,7 @@
 ## 👨‍💻 About Me
 - 🚀 Full-Stack Developer & UX/UI Designer  
 - 🎨 Apaixonado por criar interfaces bonitas, funcionais e intuitivas  
-- 💻 Trabalho com **HTML, CSS, JavaScript, Java, PHP, SQL, C#, C++**  
+- 💻 Trabalho com **HTML, CSS, SCSS, JavaScript, Java, PHP, SQL, C#, C++**  
 - 📚 Sempre aprendendo novas tecnologias para evoluir como dev  
 - 🎯 Busco desenvolver soluções inovadoras que gerem impacto positivo  
 
@@ -26,7 +26,7 @@
 
 ## 📑 Languages & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,canva" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,canva" />
 </p>
 
 ---
@@ -47,6 +47,7 @@
 ### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
