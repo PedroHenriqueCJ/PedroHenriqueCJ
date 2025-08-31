@@ -1,7 +1,7 @@
 <!-- Banner -->
 <img src="https://i.imgur.com/IMAGEM_DO_SEU_BANNER.png" width="100%"/>
 
-<h1 align="center">Pedro Henrique Cerqueira de Jesus 🔥</h1>
+<h1 align="center">Pedro Henrique Cerqueira de Jesus </h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
 ---
@@ -15,34 +15,36 @@
 
 ---
 
+<div align="right">
+  
 ## 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/Beu266"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pedrohenriquecerqueiraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Beu266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquecerqueiraj@gmail.com)
+
+</div>
 
 ---
 
-<h2 align="center">📑 Languages & Tools</h2>
+## 📑 Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,canva" />
 </p>
 
 ---
 
-<h2 align="center">⚡ GitHub Stats</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=tokyonight&hide_border=false" height="150"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150"/>
-</p>
+⚡ 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150"/>
+</p>
 ---
 
-<h2 align="center">🛠 Tech Stack</h2>
+## 🛠 Tech Stack
 
 ### 🎨 Frontend & Design
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -69,14 +71,12 @@
 
 ---
 
-<h2 align="center">📌 Random Dev Quote</h2>
-<p align="center">
-  "Code is like humor. When you have to explain it, it’s bad." – Cory House
-</p>
+## 📌 Random Dev Quote
+> "Code is like humor. When you have to explain it, it's bad." – Cory House  
 
 ---
 
-<h2 align="center">☕ Support Me</h2>
+## ☕ Support Me
 <p align="center">
   <a href="https://www.buymeacoffee.com/seuusuario">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
