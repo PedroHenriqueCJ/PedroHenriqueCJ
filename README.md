@@ -1,5 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/SEU_BANNER_PROFISSIONAL.png" width="100%"/>
 
 <h1 align="center">Pedro Henrique Cerqueira de Jesus</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
@@ -15,7 +13,6 @@
 
 ---
 
-<div align="right">
 ## 🌐 Socials
 <p align="center">
   <a href="https://instagram.com/Beu266">
@@ -28,7 +25,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-<div/>
 
 ---
 
@@ -90,6 +86,10 @@
   </a>
 </p>
 
+---
 
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=PedroHenriqueCJ&icon=0&color=6" />
+</p>
 
 <!-- Proudly created with ❤️ by Pedro Henrique -->
