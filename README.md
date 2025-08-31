@@ -15,12 +15,14 @@
 
 ---
 
+<div align="right">
+  
 ## 🌐 Socials
-<p align="center">
-  <a href="https://instagram.com/Beu266"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:pedrohenriquecerqueiraj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Beu266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-cerqueira-de-jesus-26b116318)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedrohenriquecerqueiraj@gmail.com)
+
+</div>
 
 ---
 
@@ -70,7 +72,7 @@
 ---
 
 ## 📌 Random Dev Quote
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
+> "Code is like humor. When you have to explain it, it's bad." – Cory House  
 
 ---
 
