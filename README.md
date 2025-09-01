@@ -66,12 +66,4 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
 
----
-
-## ☕ Support Me  
-<p align="center">
-  <a href="https://www.buymeacoffee.com/seuusuario">
-    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-  </a>
-</p>
 
