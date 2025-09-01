@@ -1,6 +1,20 @@
-<!-- Nome animado -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Pedro+Henrique+Cerqueira+de+Jesus;Full-Stack+Developer;UX/UI+Designer" alt="Typing SVG" />
+  <svg viewBox="0 0 1000 120" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <linearGradient id="gradiente" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#4facfe">
+          <animate attributeName="stop-color" values="#4facfe;#43e97b;#4facfe" dur="6s" repeatCount="indefinite" />
+        </stop>
+        <stop offset="100%" stop-color="#43e97b">
+          <animate attributeName="stop-color" values="#43e97b;#4facfe;#43e97b" dur="6s" repeatCount="indefinite" />
+        </stop>
+      </linearGradient>
+    </defs>
+    <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" 
+          font-family="Montserrat, sans-serif" font-size="36" font-weight="700" fill="url(#gradiente)">
+      Pedro Henrique Cerqueira de Jesus
+    </text>
+  </svg>
 </h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
