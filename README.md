@@ -1,6 +1,4 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=28&duration=2500&pause=1000&color=2E86C1&center=true&vCenter=true&width=800&lines=Pedro+Henrique+Cerqueira+de+Jesus" alt="Pedro Henrique Cerqueira de Jesus"/>
-</h1>
+<h1 align="center">Pedro Henrique Cerqueira de Jesus</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
 ---
