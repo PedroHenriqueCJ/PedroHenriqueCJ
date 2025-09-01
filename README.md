@@ -1,4 +1,7 @@
-<h1 align="center">Pedro Henrique Cerqueira de Jesus</h1>
+<!-- Nome animado -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=FF79C6&center=true&vCenter=true&width=600&lines=Pedro+Henrique+Cerqueira+de+Jesus;Full-Stack+Developer;UX/UI+Designer" alt="Typing SVG" />
+</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
 ---
