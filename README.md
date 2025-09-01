@@ -75,6 +75,3 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
   </a>
 </p>
 
----
-
-<p align="center"><em>✨ Proudly crafted with passion & creativity by Pedro Henrique ✨</em></p>
