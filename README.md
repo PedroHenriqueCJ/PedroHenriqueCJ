@@ -61,6 +61,21 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ---
 
+🌟 Projetos em Destaque
+
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/projeto1" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto1-Node.js-green?style=for-the-badge&logo=node.js&logoColor=white" />
+  </a>
+  <a href="https://github.com/PedroHenriqueCJ/projeto2" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto2-React-blue?style=for-the-badge&logo=react&logoColor=white" />
+  </a>
+  <a href="https://github.com/PedroHenriqueCJ/projeto3" target="_blank">
+    <img src="https://img.shields.io/badge/Projeto3-PHP-purple?style=for-the-badge&logo=php&logoColor=white" />
+  </a>
+</p>
+
+---
 ## 📌 Random Dev Quote  
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
