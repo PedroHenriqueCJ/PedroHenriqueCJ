@@ -1,6 +1,3 @@
-<!-- Banner -->
-<img src="https://i.imgur.com/SEU_BANNER.png" width="100%"/>
-
 <h1 align="center">Pedro Henrique Cerqueira de Jesus</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
