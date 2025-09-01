@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas que também sejam arte.
+Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
 
 ---
 
@@ -73,12 +73,6 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
   <a href="https://www.buymeacoffee.com/seuusuario">
     <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=PedroHenriqueCJ&icon=0&color=6" />
 </p>
 
 ---
