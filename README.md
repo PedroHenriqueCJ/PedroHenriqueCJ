@@ -19,7 +19,7 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ## 📑 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,canva,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=8" />
 </p>
 
 ---
