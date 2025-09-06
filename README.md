@@ -4,9 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Sou **Pedro Henrique Cerqueira de Jesus**, desenvolvedor **Full-Stack** e **UX/UI Designer** de São Gonçalo dos Campos (BA).  
-Tenho paixão por **criar soluções digitais que unem performance e design**, entregando interfaces funcionais, intuitivas e esteticamente impactantes.  
-Meu objetivo é desenvolver **experiências digitais memoráveis**, que contem histórias e inspirem pessoas.
+Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
 
 ---
 
@@ -19,7 +17,8 @@ Meu objetivo é desenvolver **experiências digitais memoráveis**, que contem h
 
 ---
 
-## 🌟 Featured Projects  
+## 🌟 Featured Projects
+
 <p align="center">
   <!-- Projeto Integrador 5 -->
   <a href="https://github.com/PedroHenriqueCJ/Projeto-Integrador-5">
@@ -39,7 +38,7 @@ Meu objetivo é desenvolver **experiências digitais memoráveis**, que contem h
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=8" />
 </p>
 
----
+---  
 
 ## 💻 Tech Stack  
 <p align="center">
@@ -63,7 +62,7 @@ Meu objetivo é desenvolver **experiências digitais memoráveis**, que contem h
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
