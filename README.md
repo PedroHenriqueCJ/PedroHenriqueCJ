@@ -22,12 +22,12 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Des
 <p align="center">
   <!-- Projeto Integrador 5 -->
   <a href="https://github.com/PedroHenriqueCJ/Projeto-Integrador-5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=Projeto-Integrador-5&theme=rose_pine&show_owner=true" alt="Projeto Integrador 5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Projeto-Integrador-5&theme=rose_pine&show_owner=true" alt="Projeto Integrador 5">
   </a>
   
   <!-- Kards Trello Clone -->
-  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
+  <a href="https://github.com/Kards-Trello-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
   </a>
 </p>
 
@@ -69,11 +69,3 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Des
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact" height="160"/>
-</p>
-
----
-
-## 📌 Random Dev Quote  
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
