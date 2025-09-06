@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Pedro Henrique Cerqueira de Jesus</h1>
+<h1 align="center">Olá, eu sou Pedro Henrique Cerqueira de Jesus</h1>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UX/UI Designer</h3>
 
 ---
