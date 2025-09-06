@@ -27,7 +27,7 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Des
   
   <!-- Kards Trello Clone -->
   <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
   </a>
 </p>
 
