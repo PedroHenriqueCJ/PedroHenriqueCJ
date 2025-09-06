@@ -38,18 +38,7 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=8" />
 </p>
 
----
-
-## 📊 GitHub Stats  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact" height="160"/>
-</p>
-
----
+---  
 
 ## 💻 Tech Stack  
 <p align="center">
@@ -69,6 +58,17 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
  
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact" height="160"/>
 </p>
 
 ---
