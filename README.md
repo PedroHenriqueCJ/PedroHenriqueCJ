@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
+Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Designer** de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
 
 ---
 
