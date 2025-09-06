@@ -35,6 +35,41 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ---
 
+---
+
+## 📂 Featured Project
+
+<h3 align="center">🗂️ Kards - Trello Clone</h3>
+
+<p align="center">
+  <i>A sophisticated, production-ready Kanban board inspired by Trello, built with modern web technologies.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone/stargazers"><img src="https://img.shields.io/github/stars/PedroHenriqueCJ/Kards-Trello-clone?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone/network/members"><img src="https://img.shields.io/github/forks/PedroHenriqueCJ/Kards-Trello-clone?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+<p align="center">
+  <img src="https://i.imgur.com/SEU_EXEMPLO_DE_IMAGEM.png" alt="Kards-Trello Clone Screenshot" width="600"/>
+</p>
+
+### 🚀 Features
+- Drag & drop cards and lists
+- Add, edit, delete tasks
+- Persistent storage with localStorage
+- Responsive design for all devices
+- Clean, modern UI inspired by Trello
+
+### 🛠️ Tech Stack
+HTML5, CSS3, SCSS, JavaScript, React, Git, GitHub
+
+### 📌 Highlights
+- Fully functional Kanban board similar to Trello
+- Focus on usability and design
+- Ready for production deployment
+
 ## 💻 Tech Stack  
 <p align="center">
   
