@@ -17,6 +17,16 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ---
 
+## 🌟 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/Projeto-Integrador-5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Projeto-Integrador-5&theme=rose_pine&show_owner=true" alt="Projeto Integrador 5">
+  </a>
+</p>
+
+---
+
 ## 📑 Languages & Tools  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=8" />
@@ -59,7 +69,5 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ## 📌 Random Dev Quote  
 <p align="center">
-  <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
+  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
 </p>
-
-
