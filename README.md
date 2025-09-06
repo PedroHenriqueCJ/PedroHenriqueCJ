@@ -22,7 +22,7 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Des
 <p align="center">
   <!-- Projeto Integrador 5 -->
   <a href="https://github.com/PedroHenriqueCJ/Projeto-Integrador-5">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Projeto-Integrador-5&theme=rose_pine&show_owner=true" alt="Projeto Integrador 5">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?repo=Projeto-Integrador-5&theme=rose_pine&show_owner=true" alt="Projeto Integrador 5">
   </a>
   
   <!-- Kards Trello Clone -->
