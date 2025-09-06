@@ -4,7 +4,7 @@
 ---
 
 ## 👨‍💻 About Me  
-Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Crio soluções digitais que funcionam de forma impecável, mas que também são visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
+Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Designer de São Gonçalo dos Campos. Gosto de criar soluções digitais que funcionem de forma impecável, mas que também sejam visualmente elegantes — interfaces que não apenas funcionam, mas contam histórias.
 
 ---
 
@@ -37,64 +37,23 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 
 ## 💻 Tech Stack  
 <p align="center">
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-  ![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-  ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+ 
 </p>
-
----
-
-## 🚀 Featured Projects  
-
-### 🗂️ Kards - Trello Clone
-<p align="center">
-  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone">
-    <img src="https://i.imgur.com/example-screenshot.png" alt="Kards Screenshot" width="600"/>
-  </a>
-</p>
-<p align="center">
-  <em>Um clone sofisticado do Trello, focado em gerenciamento de tarefas, com interface limpa, responsiva e altamente funcional.</em>
-</p>
-
-**🛠️ Tecnologias usadas:** HTML, CSS, JavaScript, React  
-**📂 Funcionalidades principais:**  
-- Criar, editar e excluir quadros, listas e cards  
-- Arrastar e soltar cards entre listas  
-- Responsividade total para desktop e mobile  
-- Interface clean e experiência de usuário fluida  
-
-**🔗 Links:** [GitHub Repository](https://github.com/PedroHenriqueCJ/Kards-Trello-clone)
-
----
-
-### 💡 Outro projeto (exemplo)
-<p align="center">
-  <a href="https://github.com/PedroHenriqueCJ/Outro-Projeto">
-    <img src="https://i.imgur.com/example2.png" alt="Outro Projeto Screenshot" width="600"/>
-  </a>
-</p>
-<p align="center">
-  <em>Breve descrição do projeto, suas funcionalidades e objetivo principal.</em>
-</p>
-
-**🛠️ Tecnologias usadas:** Tecnologias principais  
-**📂 Funcionalidades principais:**  
-- Funcionalidade 1  
-- Funcionalidade 2  
-- Funcionalidade 3  
-
-**🔗 Links:** [GitHub Repository](https://github.com/PedroHenriqueCJ/Outro-Projeto)
 
 ---
 
@@ -102,3 +61,5 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor Full-Stack e UX/UI Desig
 <p align="center">
   <em>"Code is like humor. When you have to explain it, it’s bad." – Cory House</em>
 </p>
+
+
