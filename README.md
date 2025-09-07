@@ -48,6 +48,5 @@ Sou Pedro Henrique Cerqueira de Jesus, um desenvolvedor **Full-Stack e UX/UI Des
 ---
 
 ## 📌 Random Dev Quote  
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
+
+  >"Code is like humor. When you have to explain it, it's bad." – Cory House
