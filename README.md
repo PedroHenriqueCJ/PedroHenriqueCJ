@@ -28,7 +28,7 @@ Minha abordagem combina conhecimentos técnicos sólidos com princípios de **de
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
   </a>
 </p>
-Aplicação web inspirada no Trello para gerenciamento de tarefas com **drag-and-drop**, desenvolvida com **React + TypeScript**.  
+Aplicação web inspirada no Trello para gerenciamento de tarefas.  
 
 ---
 
