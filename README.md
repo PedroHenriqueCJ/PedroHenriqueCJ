@@ -4,10 +4,8 @@
 ---
 
 ## 👨‍💻 About Me  
-Sou um desenvolvedor **Full-Stack** e **UX/UI Designer** com paixão por criar soluções digitais que unem **funcionalidade impecável** e **elegância visual**.  
-Minha abordagem combina conhecimentos técnicos sólidos com princípios de **design centrado no usuário**, resultando em experiências que não apenas funcionam, mas também contam histórias e geram impacto.  
-
-📌 **Filosofia**: *trabalho com IA, Insônia e Ansiedade*  
+I am a **Full-Stack Developer** and **UX/UI Designer** passionate about transforming ideas into digital solutions that combine **flawless functionality** and **intuitive design**.  
+My approach integrates **solid software engineering practices** with **user-centered design principles**, delivering experiences that create real value and lasting impact.  
 
 ---
 
@@ -28,7 +26,7 @@ Minha abordagem combina conhecimentos técnicos sólidos com princípios de **de
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
   </a>
 </p>
-Aplicação web inspirada no Trello para gerenciamento de tarefas.  
+A web application inspired by Trello, developed for **task management** with a strong focus on **productivity and usability**.  
 
 ---
 
@@ -52,6 +50,6 @@ Aplicação web inspirada no Trello para gerenciamento de tarefas.
 
 ## 📌 Professional Philosophy  
 
-> *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
