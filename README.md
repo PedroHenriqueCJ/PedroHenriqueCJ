@@ -4,8 +4,8 @@
 ---
 
 ## 👨‍💻 About Me  
-I am a **Full-Stack Developer** and **UX/UI Designer** passionate about transforming ideas into digital solutions that combine **flawless functionality** and **intuitive design**.  
-My approach integrates **solid software engineering practices** with **user-centered design principles**, delivering experiences that create real value and lasting impact.  
+I am a **Full-Stack Developer** and **UX/UI Designer** dedicated to building digital solutions that combine **scalability, performance, and user-centered design**.  
+My goal is to deliver **high-quality applications** that merge **solid engineering practices** with **seamless user experiences**, ensuring real business value and impact.  
 
 ---
 
@@ -27,7 +27,7 @@ My approach integrates **solid software engineering practices** with **user-cent
   </a>
 </p>
 
-A web application inspired by Trello, developed for **task management** with a strong focus on **productivity and usability**.  
+A **task management web application** inspired by Trello, focused on **productivity, collaboration, and usability**.  
 
 ---
 
@@ -38,27 +38,25 @@ A web application inspired by Trello, developed for **task management** with a s
   </a>
 </p>
 
-A **modern analytics dashboard** built with **React** to visualize data in an elegant and responsive way, featuring **charts, metrics, and interactive UI components**.  
+A **modern analytics dashboard** built with **React**, featuring **data visualization, interactive UI components, and responsive design**.  
 
 ---
 
-
 ## 📑 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=8" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,js,ts,react,java,php,cs,cpp,python,mysql,git,github,figma,xd,vscode&perline=9" />
 </p>
 
 ---
 
 ## 📊 GitHub Analytics  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&count_private=true&show_icons=true" height="160"/>
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&cache_seconds=600" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&langs_count=8&cache_seconds=600" height="160"/>
 </p>
 
 ---
@@ -67,4 +65,6 @@ A **modern analytics dashboard** built with **React** to visualize data in an el
 
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 
-> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
+> *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
+
+---
