@@ -44,7 +44,7 @@ A web application inspired by Trello, developed for **task management** with a s
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&langs_count=6" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&cache_seconds=1800" height="160"/>
 </p>
 
 ---
