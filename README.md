@@ -30,7 +30,6 @@ My approach integrates **solid software engineering practices** with **user-cent
 A web application inspired by Trello, developed for **task management** with a strong focus on **productivity and usability**.  
 
 
----
 
 ### 📊 React Analytics Dashboard  
 <p align="center">
