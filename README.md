@@ -51,12 +51,14 @@ A **modern analytics dashboard** built with **React** to visualize data in an el
 ---
 
 ## 📊 GitHub Analytics  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&include_all_commits=true&count_private=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
   <img src="https://streak-stats.demolab.com?user=PedroHenriqueCJ&theme=rose_pine&hide_border=false" height="160"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&cache_seconds=1800" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHenriqueCJ&theme=rose_pine&hide_border=false&layout=compact&cache_seconds=600" height="160"/>
 </p>
 
 ---
