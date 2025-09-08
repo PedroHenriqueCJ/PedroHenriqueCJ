@@ -7,7 +7,7 @@
 Sou um desenvolvedor **Full-Stack** e **UX/UI Designer** com paixão por criar soluções digitais que unem **funcionalidade impecável** e **elegância visual**.  
 Minha abordagem combina conhecimentos técnicos sólidos com princípios de **design centrado no usuário**, resultando em experiências que não apenas funcionam, mas também contam histórias e geram impacto.  
 
-📌 **Filosofia**: *Interfaces devem ser intuitivas, código deve ser limpo e a experiência do usuário deve ser memorável.*  
+📌 **Filosofia**: *trabalho com IA, Insônia e Ansiedade*  
 
 ---
 
