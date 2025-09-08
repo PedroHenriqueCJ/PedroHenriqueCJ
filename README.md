@@ -29,7 +29,20 @@ My approach integrates **solid software engineering practices** with **user-cent
 
 A web application inspired by Trello, developed for **task management** with a strong focus on **productivity and usability**.  
 
+
 ---
+
+### 📊 React Analytics Dashboard  
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/React-Analytics-Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=React-Analytics-Dashboard&theme=rose_pine&show_owner=true" alt="React Analytics Dashboard">
+  </a>
+</p>
+
+A **modern analytics dashboard** built with **React** to visualize data in an elegant and responsive way, featuring **charts, metrics, and interactive UI components**.  
+
+---
+
 
 ## 📑 Languages & Tools  
 <p align="center">
