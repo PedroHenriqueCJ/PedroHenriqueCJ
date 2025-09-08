@@ -26,6 +26,7 @@ My approach integrates **solid software engineering practices** with **user-cent
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
   </a>
 </p>
+
 A web application inspired by Trello, developed for **task management** with a strong focus on **productivity and usability**.  
 
 ---
@@ -50,6 +51,6 @@ A web application inspired by Trello, developed for **task management** with a s
 
 ## 📌 Professional Philosophy  
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs
