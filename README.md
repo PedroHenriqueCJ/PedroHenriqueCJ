@@ -31,7 +31,7 @@ A **task management web application** inspired by Trello, focused on **productiv
 
 ---
 
-### 📊 React Analytics Dashboard – Business Intelligence Platform
+### 📊 Analytics Dashboard – Business Platform
 <p align="center">
   <a href="https://github.com/PedroHenriqueCJ/React-Analytics-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=React-Analytics-Dashboard&theme=rose_pine&show_owner=true" alt="React Analytics Dashboard">
