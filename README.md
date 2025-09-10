@@ -31,7 +31,7 @@ A **task management web application** inspired by Trello, focused on **productiv
 
 ---
 
-### 📊 React Analytics Dashboard  
+### 📊 React Analytics Dashboard – Business Intelligence Platform
 <p align="center">
   <a href="https://github.com/PedroHenriqueCJ/React-Analytics-Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=React-Analytics-Dashboard&theme=rose_pine&show_owner=true" alt="React Analytics Dashboard">
@@ -66,5 +66,3 @@ A **modern analytics dashboard** built with **React**, featuring **data visualiz
 > *"Code is like humor. When you have to explain it, it's bad."* – Cory House  
 
 > *"Design is not just what it looks like and feels like. Design is how it works."* – Steve Jobs  
-
----
