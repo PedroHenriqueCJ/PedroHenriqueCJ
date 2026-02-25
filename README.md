@@ -31,6 +31,15 @@ A **task management web application** inspired by Trello, focused on **productiv
 
 ---
 
+### 🎨 Layrer Art - Advanced Pixel Art Studio
+
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/Layrer-Art">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Layrer-Art&theme=rose_pine&show_owner=true" alt="Layrer Art">
+  </a>
+</p>
+
+A professional-grade pixel art studio built with vanilla JavaScript. Features 20+ tools, multi-layer system, frame-by-frame animation, gradient engine, shape library, project gallery, and high-resolution export. Zero dependencies. Live Demo
 
 ---
 
