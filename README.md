@@ -50,7 +50,7 @@ A professional-grade pixel art studio built with vanilla JavaScript. Features 20
   </a>
 </p>
 
-A **modern analytics dashboard** built with **React**, featuring **data visualization, interactive UI components, and responsive design**.  
+A sophisticated, responsive dashboard built with React and modern web technologies, designed for data visualization and analytics. This project showcases a premium admin interface with real-time metrics, interactive charts, and a clean, professional design system.
 
 ---
 
