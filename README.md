@@ -39,7 +39,7 @@ A **task management web application** inspired by Trello, focused on **productiv
   </a>
 </p>
 
-A professional-grade pixel art studio built with vanilla JavaScript. Features 20+ tools, multi-layer system, frame-by-frame animation, gradient engine, shape library, project gallery, and high-resolution export. Zero dependencies. Live Demo
+A professional-grade **pixel art studio** built with vanilla JavaScript. **Features 20+ tools**, multi-layer system, frame-by-frame animation, gradient engine, shape library, project gallery, and high-resolution export. Zero dependencies. Live Demo
 
 ---
 
@@ -50,7 +50,7 @@ A professional-grade pixel art studio built with vanilla JavaScript. Features 20
   </a>
 </p>
 
-A sophisticated, responsive dashboard built with React and modern web technologies, designed for data visualization and analytics. This project showcases a premium admin interface with real-time metrics, interactive charts, and a clean, professional design system.
+A sophisticated, **responsive dashboard** built with **React** and modern web technologies, designed for data visualization and analytics. This project showcases a premium admin interface with real-time metrics, interactive charts, and a clean, professional design system.
 
 ---
 
