@@ -20,16 +20,6 @@ My goal is to deliver **high-quality applications** that merge **solid engineeri
 
 ## 🌟 Featured Projects  
 
-### 🃏 Kards - Trello Clone  
-<p align="center">
-  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
-  </a>
-</p>
-
-A **task management web application** inspired by Trello, focused on **productivity, collaboration, and usability**.  
-
----
 
 ### 🎨 Layrer Art - Advanced Pixel Art Studio
 
@@ -51,6 +41,17 @@ A professional-grade **pixel art studio** built with vanilla JavaScript. **Featu
 </p>
 
 A sophisticated, **responsive dashboard** built with **React** and modern web technologies, designed for data visualization and analytics. This project showcases a premium admin interface with real-time metrics, interactive charts, and a clean, professional design system.
+
+---
+
+### 🃏 Kards - Trello Clone  
+<p align="center">
+  <a href="https://github.com/PedroHenriqueCJ/Kards-Trello-clone">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroHenriqueCJ&repo=Kards-Trello-clone&theme=rose_pine&show_owner=true" alt="Kards Trello Clone">
+  </a>
+</p>
+
+A **task management web application** inspired by Trello, focused on **productivity, collaboration, and usability**.  
 
 ---
 
